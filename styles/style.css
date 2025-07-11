@@ -95,12 +95,50 @@ body {
 .action-title {
   font-size: 42px;
   font-weight: bold;
-   font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
   margin-bottom: 23px;
 }
 
 .action-sub-title {
   font-size: 24px;
   margin-bottom: 23px;
+}
+
+.productive-user-container {
+  background-color: #e5e7ff;
+  border-radius: 24px;
+  padding: 50px 80px;
+  margin-bottom: 137px;
+  font-family: "Raleway", sans-serif;
+}
+
+.productive-data-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 158px;
+  font-family: "Raleway", sans-serif;
+}
+
+.productive-item {
+  text-align: center;
+}
+
+.productive-title {
+  font-size: 38px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: "Raleway", sans-serif;
+
+}
+
+.productive-data {
+  font-size: 80px;
+  color: #4e47ff;
+}
+
+.productive-sub-title {
+  font-size: 20px;
 }
 
