@@ -142,3 +142,64 @@ body {
   font-size: 20px;
 }
 
+.user-review-container {
+  margin: 137px 0;
+}
+
+.user-review-title {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 50px;
+}
+
+.user-review {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.review {
+  padding: 24px;
+  border-radius: 14px;
+  background-color: #ffffff80;
+  border: 1px solid #f2eded;
+}
+
+.star {
+  margin-bottom: 15px;
+}
+
+.review-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.review-details {
+  margin-bottom: 15px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.user img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.user-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #757575;
+  margin-bottom: 3px;
+}
+
+.date {
+  font-size: 15px;
+}
+
+
